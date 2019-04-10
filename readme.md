@@ -1,2 +1,2 @@
 hello-wor-d
-my last name ia Nester
+my last name is Nester
